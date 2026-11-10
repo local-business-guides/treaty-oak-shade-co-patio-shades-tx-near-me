@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/treaty-oak-shade-co-patio-shades-tx-near-me/sitemap.xml
